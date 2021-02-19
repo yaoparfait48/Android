@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    android:background="@drawable/bgkd_prim"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <ImageView
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+        android:paddingTop="10dp"
+        android:src="@drawable/logoexam" />
+
+    <TextView
+        android:layout_width="106dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="8dp"
+        android:text="CAN 2023"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+    <TextView
+        android:layout_width="106dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="team7@gmail.com"
+        android:textSize="10sp" />
+
+
+</LinearLayout>

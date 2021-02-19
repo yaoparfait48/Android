@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_ren_title">
+        <item>Stade Ebimpé Abidjan</item>
+        <item>Stade de la paix Bouaké</item>
+        <item>Stade de Yamoussoukro</item>
+        <item>Stade de Korhogo</item>
+        <item>Stade de San-Prdro</item>
+        <item>Stade FHB Abidjan</item>
+    </string-array>
+
+    <string-array name="item_renc_description">
+        <item>Stade inogurer en 2020 accueillera 4 matchs dont le match d ouverture, il est situé à Abidjan dans la commune de Yopougon, avec une capacite de 60.000 places</item>
+        <item>Stade qui a servir de lieu de place à la flamme de la paix, il accueillera 3 match dont ..</item>
+        <item>Il y aura 3 rencontres dans ce stade, il à une capacité de 30.000 places</item>
+        <item>Ce stade vera s y dérouler 3 matchs, il à une capacité de 20.000 places</item>
+        <item>Situé à l ouest du pays, il accueillera 3 matchs avec sa capcité de 20.000 places</item>
+        <item>Ce deuxième stade d Abidjan a pendant des années servit de stade far. Il abritéra 2 matchs avec sa capacité de 40.000 places</item>
+    </string-array>
+
+    <string-array name="item_renc_img">
+        <item>stade_ebimpe</item>
+        <item>stade_bouake</item>
+        <item>stade_yakro</item>
+        <item>stade_korhogo</item>
+        <item>stade_san_pedro</item>
+        <item>stade_fhb</item>
+
+    </string-array>
+</resources>

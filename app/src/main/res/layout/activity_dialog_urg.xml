@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DialogUrg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/layout_urg_dialog"
+            android:layout_width="match_parent"
+            android:layout_height="239dp"
+            android:background="@drawable/rectangle_22"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/nom_urg"
+                android:layout_width="match_parent"
+                android:layout_height="116dp"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="Nom du Stade"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/descript_urg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:paddingTop="10dp"
+            android:text="Description de l'element" />
+
+        <Button
+            android:id="@+id/btn_appel"
+            android:layout_width="78dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center|right"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/images__15_"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+        <!---<Button
+            android:id="@+id/btn_local"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="50dp"
+            android:background="@drawable/btn_vert"
+            android:text="Localisation"
+            android:textColor="#FFFFFF" />-->
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_compte"
+            android:icon="@drawable/ic_copte_user"
+            android:title="Compte"/>
+        <item
+            android:id="@+id/nav_acceuil"
+            android:icon="@drawable/accueil"
+            android:title="@string/menu_accueil" />
+        <item
+            android:id="@+id/nav_renc"
+            android:icon="@drawable/ic_ballon"
+            android:title="@string/menu_rencontre" />
+        <item
+            android:id="@+id/nav_event"
+            android:icon="@drawable/ic_evenements"
+            android:title="@string/menu_evenements" />
+        <item
+            android:id="@+id/nav_tour"
+            android:icon="@drawable/ic_tourisme"
+            android:title="@string/menu_tourisme" />
+
+        <item
+            android:id="@+id/nav_urg"
+            android:icon="@drawable/ic_urgence"
+            android:title="@string/menu_num_urgence" />
+    </group>
+</menu>

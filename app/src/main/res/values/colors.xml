@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="edit_text_gray">#E4DEDE</color>
+    <color name="btn_connexion">#2196F3</color>
+    <color name="vert">#5DA85F</color>
+    <color name="color_gris">#EFEFEF</color>
+    <color name="rouge_urgence">#F31A0A</color>
+</resources>

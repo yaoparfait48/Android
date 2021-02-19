@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Ivoire 2023</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">TP2SIGL3</string>
+    <string name="nav_header_subtitle" translatable="false">splash screen et medias</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Paramètres</string>
+
+    <string name="menu_accueil" translatable="false">Accueil</string>
+    <string name="menu_rencontre" translatable="false">Rencontres</string>
+    <string name="menu_evenements" translatable="false">Evenements</string>
+    <string name="menu_tourisme" translatable="false">Tourisme</string>
+    <string name="menu_num_urgence" translatable="false">Urgences</string>
+    <string name="menu_home" translatable="false">Accueil</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="navigation_drawr_open">Open navigation drawer</string>
+    <string name="navigation_drawr_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_localisation">Map</string>
+    <string name="APP_TOKEN">pk.eyJ1IjoieWFvcGFyZmFpdCIsImEiOiJja2p4enkzM20wbW95MnFwZzdod2h4YWtpIn0.-A0-mEp4INf4laMwOdRVNA</string>
+</resources>
